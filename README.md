@@ -1,25 +1,29 @@
-# About Me:
-👋 Hi, I'm Sushma <br>
-I am a Computer Science Graduate passionate about Full-Stack Development, Backend Engineering, and DevOps. I enjoy designing and building applications that bring together scalable backend systems, modern frontend interfaces, and AI-driven intelligence. My focus is on creating impactful solutions with strong cloud and DevOps practices.
+About Me:
 
-🚀 What I'm Working On: <br>
-🛠 Building Full-Stack Projects using React, Angular, Next.js, Node.js, and Spring Boot <br>
-🤖 Exploring Generative AI (LLMs, LangChain, Hugging Face, Prompt Engineering) and integrating AI into apps <br>
-⚙️ Strengthening expertise in Backend Development, APIs, and Microservices <br>
-☁️ Expanding skills in Cloud Computing & DevOps (AWS, Docker, Kubernetes, CI/CD) <br>
+Hi, I'm Sushma <br>
+I am a Computer Science Graduate passionate about Data Engineering, Cloud Engineering, and Big Data Systems. I enjoy designing and building scalable data pipelines, automating ETL/ELT workflows, and working with modern cloud-native architectures. My focus is on creating high-quality, reliable data systems that support analytics and AI use cases.
+
+What I'm Working On: <br>
+🛠 Building robust ETL/ELT pipelines using AWS Glue, PySpark, Lambda, and Step Functions <br>
+📊 Creating data lakes & data warehouses using S3, Lake Formation, Redshift, and Athena <br>
+⚙️ Strengthening expertise in distributed processing with Spark, EMR, and Kafka <br>
+☁️ Expanding skills in AWS Cloud, DevOps, and Infrastructure Automation <br>
+🤖 Exploring integration of LLMs & Generative AI with data workflows (data quality, metadata generation, analytics)
 
 💡 Skills & Tech Stack: <br>
-💻 Programming Languages: Python, Java, JavaScript, TypeScript, SQL <br>
-⚡ Frontend: React, Angular, Next.js, Tailwind CSS <br>
-⚙️ Backend: Spring Boot, Node.js, Express.js, FastAPI <br>
-🗄️ Databases: MongoDB, PostgreSQL, MySQL <br>
-☁️ Cloud & DevOps: AWS (EC2, S3, Lambda, RDS, CloudWatch), Docker, Kubernetes, GitHub Actions, Jenkins, CI/CD Pipelines <br>
-🤖 AI/ML Tools: TensorFlow, PyTorch, Scikit-Learn, LangChain, Hugging Face, OpenAI/Groq APIs, Pandas, NumPy, Matplotlib <br>
 
-📫 Connect with Me: <br>
-🌐 GitHub: https://github.com/sushmaavala
+Programming: Python, SQL, PySpark, Java <br>
+Big Data & Processing: Apache Spark, EMR, Glue Jobs, Kafka, Airflow <br>
+AWS & Cloud: S3, Glue, Athena, Redshift, Lake Formation, Lambda, Step Functions, CloudWatch <br>
+Data Modeling: Star Schema, Snowflake Schema, Fact/Dim Tables <br>
+Databases: PostgreSQL, MySQL, DynamoDB, Redshift <br>
+DevOps: Docker, Kubernetes, GitHub Actions, Jenkins, CI/CD Pipelines <br>
+AI/ML Tools: Pandas, NumPy, Scikit-Learn, LangChain, Hugging Face, OpenAI/Groq APIs <br>
+
+ Connect with Me: <br>
+GitHub: https://github.com/sushmaavala
  <br>
-💼 LinkedIn: https://www.linkedin.com/in/sushmareddyavala/
+LinkedIn: https://www.linkedin.com/in/sushmareddyavala/
  <br>
 ✉️ Email: sushmaa297@gmail.com
  <br>
